@@ -8,7 +8,6 @@ Frontend Developer
 
 * 🌍  I'm based in 📌 Based in Morocco
 * ✉️  You can contact me at [youssefghazoui89@gmail.com](mailto:youssefghazoui89@gmail.com)
-* 🧠  I'm learning bug bounty hunting , video editing
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Hello friend
 
